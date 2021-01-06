@@ -1,2 +1,2 @@
 # Matrix
-Matrix library for vertices and matrices with basic methods
+library for vertices and matrices with basic methods
